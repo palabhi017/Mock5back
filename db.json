@@ -1,0 +1,67 @@
+{
+  "dogs": [
+    {
+      "name": "Anil Pal",
+      "age": "5",
+      "gender": "Male",
+      "place": "delhi",
+      "id": 1
+    },
+    {
+      "name": "Abhishek ",
+      "age": "6",
+      "gender": "Female",
+      "place": "delhi",
+      "id": 2
+    },
+    {
+      "name": "German",
+      "age": "9",
+      "gender": "Male",
+      "place": "Indore",
+      "id": 4
+    },
+    {
+      "name": "Hiroku",
+      "age": "7",
+      "gender": "Female",
+      "place": "London",
+      "id": 5
+    },
+    {
+      "name": "Kedar",
+      "age": "4",
+      "gender": "Male",
+      "place": "India",
+      "id": 6
+    },
+    {
+      "name": "Intro",
+      "age": "8",
+      "gender": "Female",
+      "place": "Indore",
+      "id": 7
+    },
+    {
+      "name": "Goro",
+      "age": "6",
+      "gender": "Male",
+      "place": "delhi",
+      "id": 8
+    },
+    {
+      "name": "Decan",
+      "age": "4",
+      "gender": "Female",
+      "place": "London",
+      "id": 9
+    },
+    {
+      "name": "Rende",
+      "age": "3",
+      "gender": "Male",
+      "place": "Mumbai",
+      "id": 10
+    }
+  ]
+}

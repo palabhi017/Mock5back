@@ -72,5 +72,68 @@
   ],
   "products":[
     
+  ],
+  "users": [
+    {
+      "name": "abhi pal",
+      "password": "1234",
+      "point": 3,
+      "id": 1
+    },
+    {
+      "name": "anil pal",
+      "password": "13534",
+      "point": 4,
+      "id": 2
+    },
+    {
+      "name": "dinesh raj",
+      "password": "134234",
+      "point": 2,
+      "id": 3
+    },
+    {
+      "name": "candan lal",
+      "password": "12434",
+      "point": 2,
+      "id": 4
+    },
+    {
+      "name": "nandni",
+      "password": "123e34",
+      "point": 1,
+      "id": 5
+    },
+    {
+      "name": "Lokesh",
+      "password": "31234",
+      "point": 4,
+      "id": 6
+    },
+    {
+      "name": "manoj lal",
+      "password": "51234",
+      "point": 3,
+      "id": 7
+    },
+    {
+      "name": "abhishek gour",
+      "password": "14234",
+      "point": 5,
+      "id": 8
+    },
+    {
+      "name": "ramesh jal",
+      "password": "12364",
+      "point": 2,
+      "id": 9
+    },
+    {
+      "name": "dinesh lal",
+      "password": "41234",
+      "point": 1,
+      "id": 10
+    }
+
   ]
 }
